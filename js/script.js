@@ -6,9 +6,20 @@
 
 // Document Ready Function. All of your jQuery should go in here. 
 $( document ).ready(function() {
-  
-
-
+	$("#button").click(function() {
+  		var userInput= $("#input").val();
+  		userInput = userInput.split(" ");
+  		var WAH = "";
+  		for(var count = 0; count < userInput.length; count= count + 1) {
+  			var word = userInput[count];
+  			console.log(userInput[count]); 
+  			var first = word.slice(0,1);
+  			var rest = word.slice(1);
+  			var WAHLatin = rest + first + "ay";
+    	$("#result").text(WAHLatin);
+  		}
+	});
+	
 
 });
 

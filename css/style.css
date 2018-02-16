@@ -1,1 +1,44 @@
+.Title {
+    text-align: center;
+    
+}
+#friends{
+    background-color:  #ffff99;
+}
 
+#button {
+    text-align: center
+    background-color:; #ccffee;
+    float: center;
+        
+}
+body {
+    background-image:url("https://i.ytimg.com/vi/rJfX4JukOMc/maxresdefault.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#imgz {
+    
+    
+}
+#WaHHH {
+    height: 100px;    
+    width:  100px;
+}
+#SoftWah{
+    height: 150px;
+    width:  180px;
+}
+
+#BrawlWah{
+    height: 100px;
+    width:  100px;
+}
+#BdyingWah {
+    height: 110px;
+    width:  110px;
+}
+#AngryWAH {
+    height: 100px;
+    width:  100px;
+}
