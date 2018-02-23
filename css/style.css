@@ -7,8 +7,8 @@
 }
 
 #button {
-    text-align: center
-    background-color:; #ccffee;
+    text-align: center;
+    background-color: #ccffee;
     float: center;
         
 }
@@ -41,4 +41,20 @@ body {
 #AngryWAH {
     height: 100px;
     width:  100px;
+}
+
+#AdventureWAH {
+    height: 200px;
+    width:  180px;
+    
+}
+
+#HealthyWAH {
+    height: 250px;
+    width:  190px;
+}
+
+#BrainyWAH {
+    height: 120px;
+    width:  120px;
 }
